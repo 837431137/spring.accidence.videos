@@ -1,3 +1,13 @@
 08-bean实例化三种方式.mp4 filter=lfs diff=lfs merge=lfs -text
 15-注入复杂类型属性.mp4 filter=lfs diff=lfs merge=lfs -text
 15-spring整合web项目.mp4 filter=lfs diff=lfs merge=lfs -text
+03-jdbcTemplate实现crud操作（添加操作）.mp4 filter=lfs diff=lfs merge=lfs -text
+06-jdbcTemplate实现crud操作（查询某个值和jdbc实现）.mp4 filter=lfs diff=lfs merge=lfs -text
+07-jdbcTemplate实现crud操作（查询对象）.mp4 filter=lfs diff=lfs merge=lfs -text
+10-dao使用jdbcTemplate（注入过程）.mp4 filter=lfs diff=lfs merge=lfs -text
+13-spring的事务管理（转账环境搭建二）.mp4 filter=lfs diff=lfs merge=lfs -text
+14-spring的事务管理（配置文件实现）.mp4 filter=lfs diff=lfs merge=lfs -text
+03-ssh整合（struts2整合spring）.mp4 filter=lfs diff=lfs merge=lfs -text
+04-ssh整合（spring整合hibernate）.mp4 filter=lfs diff=lfs merge=lfs -text
+05-ssh整合（dao使用hibernateTemplate）.mp4 filter=lfs diff=lfs merge=lfs -text
+09-ssh框架整合其他方式（没有hibernate核心配置文件）.mp4 filter=lfs diff=lfs merge=lfs -text
